@@ -1,0 +1,9 @@
+# Site settings
+title: Walmart Map
+author:
+  name: Francisco Haces Fernandez
+  email: your-email@domain.comfr.haces@gmail.com
+description: "Testing map."
+
+# Build settings
+remote_theme: jekyll/minima
